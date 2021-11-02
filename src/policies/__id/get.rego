@@ -21,3 +21,7 @@ visible {
 enabled {
   f("enabled")
 }
+
+test_decision {
+  f("enabled")
+}
